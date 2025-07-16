@@ -1,20 +1,26 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
-    duration: "(Jan 2022 - Present)"
+    title: 'IT Application Solution Supervisor',
+    company: "PT Kinarya Utama Teknik (Kiselgroup)",
+    duration: "(May 2023 - Present)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "IT Business Architect & Design Supervisor",
+    company: "PT Kinarya Utama Teknik (Kiselgroup)",
+    duration: "(Nov 2022 - Apr 2023)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "IT Business Services Officer",
+    company: "Kiselgroup Holding",
+    duration: "(Sep 2019 - Oct 2022)"
+  },
+  {
+    id: 4,
+    title: "IT Application Development Staff",
+    company: "Kiselgroup Holding",
+    duration: "(Oct 2017 - Aug 2019)"
   }
 ]
